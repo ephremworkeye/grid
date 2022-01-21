@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(30, 28, 28);
+}
+.grid-container {
+  padding: 1px;
+  margin: 15px;
+}
+.grid-item {
+  padding: 40px;
+  background-color: rgb(8, 161, 244);
+  border: 3px solid white;
+}
+.grid-item.grid-item-2 {
+  background-color: rgb(6, 102, 154);
+}
